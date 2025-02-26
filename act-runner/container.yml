@@ -1,4 +1,4 @@
 container:
   name: bpi/act-runner
-  ref: gitea.com/gitea/act_runner@v0.2.11
+  ref: gitea.com/gitea/act_runner
   build: ./build.sh
