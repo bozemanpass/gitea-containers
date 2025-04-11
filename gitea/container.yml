@@ -1,4 +1,4 @@
 container:
   name: bpi/gitea
-  ref: github.com/telackey/gitea@telackey/sort
+  ref: go-gitea/gitea
   build: ./build.sh
